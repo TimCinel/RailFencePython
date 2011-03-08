@@ -1,0 +1,5 @@
+# Rail Fence Python #
+
+This is a Python script designed to decrypt a message encrypted with Rail Fence cipher given the key (ie. number of rails). Given the small search space, this could be used to brute force messages without a known key.
+
+Please improve it or criticise it if you see the opportunity.
